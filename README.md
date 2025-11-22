@@ -9,6 +9,9 @@
 
 ![Screenshot 3](https://media.discordapp.net/attachments/1278597122836529183/1441819899776471040/image.png?ex=69232eeb&is=6921dd6b&hm=b529b8e7b5c503014fc661d551018270794fd34aa13a76bcc77f0537b0ce370d&=&format=webp&quality=lossless&width=2244&height=1265)
 
+![Screenshot 3](https://images-ext-1.discordapp.net/external/JsGCWpFGfqKsox6GjtWwmLMreKnLc1MMFny7gNgHM_g/https/s3.iimg.su/s/22/gAukWXDxPch7SNhrmXYSM3FzvYazUz1Mhj3Cq2KA.png?format=webp&quality=lossless&width=795&height=461)
+
 ## gui pic
 ![Screenshot 4](https://media.discordapp.net/attachments/1278597122836529183/1441820472806342748/image.png?ex=69232f74&is=6921ddf4&hm=6c45156c2c3a80b6206537b3350dc4879c291a2c9582269e953bca8e2dfb74e7&=&format=webp&quality=lossless&width=2093&height=1265)
+
 
