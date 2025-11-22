@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "shampooclient",
+  "version": "${version}",
+  "name": "shampooclient",
+  "description": "cpvphack 1.21.8 ver",
+  "authors": [
+    "uidinfinity"
+  ],
+  "contact": {
+    "repo": "https://github.com/uidinfinity/shampoo-newbase"
+  },
+  "license": "None",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "accessWidener": "shampoo.accesswidener",
+  "entrypoints": {
+    "client": [
+      "uid.infinity.shampoo.shampoo"
+    ],
+    "main": [
+      "uid.infinity.shampoo.shampoo"
+    ]
+  },
+  "mixins": [
+    "shampoo.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
