@@ -1,4 +1,6 @@
 
+## $200 vibe paste client 
+ 
 ## Screenshots
 
 ![Screenshot 1](https://media.discordapp.net/attachments/1278597122836529183/1441816087590338631/Screenshot_20251122_172230_Discord.png?ex=69232b5e&is=6921d9de&hm=c4dcc0ef4de0d52a995aef3ba453873d29e27d29156d63f02d4f368f4f38ca3c&=&format=webp&quality=lossless&width=1620&height=983)
